@@ -1,2 +1,2 @@
 # community
-Discussions community. 
+Community discussions. 
